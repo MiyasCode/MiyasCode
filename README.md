@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Miya Lindokuhle 
 - 👀 I’m interested in Python Programming 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python and Data Analysis
 - 💞️ I’m looking to collaborate on Python and More
 - 📫 Reach me on miyalindokuhle70@gmail.com 
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
